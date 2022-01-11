@@ -1,0 +1,118 @@
+@media all and (max-width: 963px) {
+    h1 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        font-size: 35px;
+        margin-top: 0;
+    }
+    .box {
+        height: 200px;
+    }
+    .box span {
+        font-size: 30px;
+    }
+    .half-width img {
+        width: 80%;
+        margin-top: 10%;
+    }
+    .button {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+}
+@media all and (max-width: 794px) {
+    .box span {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 40px;
+        margin: 0;
+    }
+    section {
+        padding-bottom: 0;
+    }
+}
+@media all and (max-width: 749px) {
+    h1 {
+        font-size: 35px;
+    }
+    h2 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    p {
+        font-size: 10px;
+        margin-bottom: 5%;
+    }
+    .box {
+        height: 160px;
+    }
+    .button {
+        padding: 5px;
+        font-size: 9px;
+    }
+}
+@media all and (max-width: 557px) {
+    .experience h2 {
+        text-align: center;
+    }
+    .half-width {
+        margin-left: 3.5%;
+    }
+}
+@media all and (max-width: 529px) {
+    h2 {
+        font-size: 20px;
+    }
+    .half-width {
+        width: 35%;
+    }
+    .box span {
+        font-size: 15px;
+    }
+    p {
+        font-size: 10px;
+        margin-bottom: 5%;
+    }
+    .half-width {
+        margin-left: 6.5%;
+    }
+}
+@media all and (max-width: 453px) {
+    h1 {
+        font-size: 25px;
+        margin-top: 15px;
+    }
+    h2 {
+        font-size: 15px;
+    }
+    h3 {
+        font-size: 10px;
+    }
+    .box span {
+        font-size: 14px;
+    }
+    section {
+        height: 300px;
+    }
+    .box {
+        height: 150px;
+    }
+}
+@media all and (max-width: 390px) {
+    p {
+        font-size: 8px;
+    }
+}
+@media all and (max-width: 375px) {
+    p {
+        font-size: 8px;
+    }
+}
+@media all and (max-width: 280px) {
+    .half-width {
+        margin-left: 3%;
+    }
+}
